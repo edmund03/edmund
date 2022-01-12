@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cactus</string>
+    <string name="crash">Crash(奔溃)</string>
+    <string name="update">Update Notification(更新通知栏)</string>
+    <string name="stop">Stop(停止)</string>
+    <string name="restart">Restart(重启)</string>
+    <string name="login_title">欢迎您</string>
+    <string name="copyright_information">安卓软件保活为你服务</string>
+</resources>

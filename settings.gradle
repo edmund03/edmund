@@ -1,0 +1,2 @@
+include ':edmund-sample', ':edmund'
+rootProject.name='Edmund'

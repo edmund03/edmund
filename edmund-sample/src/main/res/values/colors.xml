@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#008577</color>
+    <color name="colorAccent">#008577</color>
+    <color name="colorblue">#87CEEB</color>
+    <color name="white">#FFFFFF</color>
+    <color name="tou_ming_hui">#00D3D3D3</color>
+    <color name="tou_ming_bai">#AAFFFFFF</color>
+</resources>
